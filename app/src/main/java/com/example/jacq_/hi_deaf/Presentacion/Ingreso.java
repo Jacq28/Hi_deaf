@@ -5,6 +5,7 @@ import android.os.Bundle;
 
 import com.example.jacq_.hi_deaf.R;
 
+//Esta actividad es para que el usuario ingrese su datos
 public class Ingreso extends AppCompatActivity {
 
     @Override
