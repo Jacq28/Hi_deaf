@@ -5,12 +5,11 @@ import android.os.Bundle;
 
 import com.example.jacq_.hi_deaf.R;
 
-
-public class MenuPrincipal extends AppCompatActivity {
+public class Ingreso extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_menu_principal);
+        setContentView(R.layout.activity_ingreso);
     }
 }
