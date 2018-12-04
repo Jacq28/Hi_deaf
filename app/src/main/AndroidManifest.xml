@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Presentacion.MenuPrincipal" />
+        <activity android:name=".Presentacion.Control" />
+        <activity android:name=".Presentacion.RegistroUsuario" />
+        <activity android:name=".Presentacion.Ingreso"></activity>
     </application>
 
 </manifest>
